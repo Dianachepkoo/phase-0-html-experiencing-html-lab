@@ -3,6 +3,12 @@
 ## Learning Goals
 
 - Create an ordered HTML list
+- Create an unordered HTML \
+# Experiencing HTML Lab
+
+## Learning Goals
+
+- Create an ordered HTML list
 - Create an unordered HTML list
 
 ## Introduction
